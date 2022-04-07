@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintQR", "PrintQR\PrintQR.csproj", "{9BBEDEF1-0A92-48C6-A0DC-C5C23A73DD63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BBEDEF1-0A92-48C6-A0DC-C5C23A73DD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBEDEF1-0A92-48C6-A0DC-C5C23A73DD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBEDEF1-0A92-48C6-A0DC-C5C23A73DD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBEDEF1-0A92-48C6-A0DC-C5C23A73DD63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CAFDB9A-4D53-4B83-802D-86E24481A7DD}
+	EndGlobalSection
+EndGlobal
